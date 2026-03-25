@@ -1,0 +1,20 @@
+# dependências
+node_modules/
+
+# compilado
+dist/
+
+# variáveis de ambiente
+.env
+.env.*
+
+# Docker volumes
+mongo_data/
+
+# sistema operacional
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
